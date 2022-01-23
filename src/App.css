@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+.styling{
+  color: #61dafb;
+  background: #000;
+}
+#heading1{
+  font-size: 48px;
+  font-weight: bold;
+  color:rgb(26, 20, 200);
+  margin-top :90px;
+}
+#lam{
+  margin-top :50px;
+}
+#imageMarge{
+  margin-top: 40px;
+}
+#headcolor{
+  color:rgb(26, 20, 200);
+}
+.head3{
+  color:blue;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.head4{
+  color:blue;
+  font-weight: bolder;
+  font-size: 30px;
+  margin-top: 30px;
+}
